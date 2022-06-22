@@ -35,7 +35,7 @@ mccabe==0.6.1
 more-itertools==8.0.2
 MouseInfo==0.1.2
 nltk==3.2.4
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.1
 pandas==0.25.1
 paramiko==2.7.1
